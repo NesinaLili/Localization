@@ -1,0 +1,37 @@
+
+/* Class = "UILabel"; text = "Surname:"; ObjectID = "9LK-xo-lFt"; */
+"9LK-xo-lFt.text" = "Фамилия:";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "Eeu-Qp-Zf0"; */
+"Eeu-Qp-Zf0.text" = "Возраст:";
+
+/* Class = "UILabel"; text = "Sex:"; ObjectID = "KQW-Tt-jaV"; */
+"KQW-Tt-jaV.text" = "Пол:";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "SYu-HG-UxC"; */
+"SYu-HG-UxC.normalTitle" = "Сохранить";
+
+/* Class = "UITextField"; placeholder = "Age"; ObjectID = "bl1-O8-Vu8"; */
+"bl1-O8-Vu8.placeholder" = "Возраст";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "eAE-J1-NdC"; */
+"eAE-J1-NdC.placeholder" = "Локация";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "jPP-B9-3z8"; */
+"jPP-B9-3z8.text" = "Локация:";
+
+/* Class = "UITextField"; placeholder = "Sex"; ObjectID = "mI4-Hj-Fds"; */
+"mI4-Hj-Fds.placeholder" = "Пол";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "nwc-4i-PxL"; */
+"nwc-4i-PxL.placeholder" = "Имя";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "w3p-lJ-vq6"; */
+"w3p-lJ-vq6.placeholder" = "Фамилия";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "ydE-KR-egW"; */
+"ydE-KR-egW.text" = "Имя:";
+
+/* Class = "UIButton"; title = "Cancel"; ObjectID = "ydE-KR-egW"; */
+"ydE-KR-egW.text" = "Имя:";
+

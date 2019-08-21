@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizationDzLili
+
+  Created by Лилия on 5/15/19.
+  Copyright © 2019 ITEA. All rights reserved.
+*/
+"Attention" = "Внимание" ;
+"Are you sure you want to save data?" = "Вы уверенны что хотите сохранить данные?" ;
+"Cancel" = "Отмена" ;
+"Ok" = "Ок" ;
+"Fields must not be empty!" = "Поля не должны быть пустыми" ;
